@@ -12,7 +12,7 @@ COMMANDS / WORKFLOW
 Required tools:
 - A Fortran compiler. GNU Fortran works fine.
 - Python 3.X
-- Python's Pillow image libraries installed
+- Python's Pillow image libraries 
 
 1. Compile cart1.f (the modified art1.f program)
 2. a.out > output.txt
