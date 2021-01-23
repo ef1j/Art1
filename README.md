@@ -9,6 +9,7 @@ Using an available listing of the original Fortran code, the program can be comp
 Art1 makes use of overstriking, the ability to print characters on top of each other by issuing a carriage return without a line feed. Since most of us don't have an IBM 1403 line printer handy, the Python script "ibm1403fort.py" will process the text from art1 and generate images. The script uses scans of glyphs from an Olivetti Te-318 teleprinter. (In the future, I hope to use the 1403's character set for a more faithful reproduction.) Four sets of the characters provide some variation that is typical of a mechanical print. The final image is 600dpi.
 
 COMMANDS / WORKFLOW
+
 Required tools:
 - A Fortran compiler. GNU Fortran works fine.
 - Python 3.X
