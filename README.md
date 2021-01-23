@@ -14,9 +14,9 @@ Required tools:
 - Python 3.X
 - Python's Pillow image libraries installed
 
-Compile cart1.f (the modified art1.f program)
-a.out > output.txt
-python3 ibm1408fort.py output.txt
+> Compile cart1.f (the modified art1.f program)//
+> a.out > output.txt//
+> python3 ibm1408fort.py output.txt//
 
 THANKS AND ACKNOWLEDGMENTS
 Patrick Frank for providing a copy of Richard William's mimeographed instructions and the Archive of American Art for their scans of Frederick Hammersley papers, including his original punch cards, Art1 output, and printed computer work.
