@@ -20,8 +20,10 @@ Required tools:
 3. python3 ibm1408fort.py output.txt
 
 THANKS AND ACKNOWLEDGMENTS
+
 Patrick Frank for providing a copy of Richard William's mimeographed instructions and the Archive of American Art for their scans of Frederick Hammersley papers, including his original punch cards, Art1 output, and printed computer work.
 
 REFERENCES
+
 Patrick Frank, 2020. Sharing Code: Art1, Frederick Hammersley, and the Dawn of Computer Art. New Mexico Museum of Art Press, Santa Fe, New Mexico.
 Jasia Reichardt, 1971. The Computer in Art. Von Nostrand Reinhold Publishing, New York.
