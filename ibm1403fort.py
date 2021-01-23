@@ -21,16 +21,16 @@ Image.MAX_IMAGE_PIXELS = 110486672 # my image size exceeds the DOS warning
 import sys, math
 
 """
-A PrintPage is an image object that represents an 8.5x11" paper at 1200dpi.
-The cursor is stored by column and row. 
+A PrintPage is an image object that represents hardcopy paper at 1200dpi.
+The cursor position is stored by column and row. 
 Methods of the class include adding ("printing") a character image to the page.
 """
 class PrintPage:
     # IBM1403 paper is 14-7/8" wide and 11" high
     pagerows = 66
     pagecols = 150
-    pagewidth = pagecols*120
-    pageheight = pagerows*200 # this was 201
+    pagewidth = pagecols*120 # each char image is 120x200
+    pageheight = pagerows*200
     
     def __init__(self,number):
         # page number
