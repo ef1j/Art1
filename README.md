@@ -1,4 +1,4 @@
-# art1
+# Art1
 
 Art1 was written by Richard Williams in 1968. It's purpose was to enable artists to use the IBM System 360/40 at the University of New Mexico to explore artistic and aesthetic uses of the machine. Williams collaborated with Frederick Hammersley, Kathernine Nash, and others. This early period of computer art is described and discussed in Patrick Frank's recent book, "Sharing Code: Art1, Frederick Hammersley and the Dawn of Computer Art" (Museum of New Mexico Press, Santa Fe, NM, 2020).
 
