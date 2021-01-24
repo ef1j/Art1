@@ -1,4 +1,4 @@
-# Art1
+## Art1
 
 Art1 is a program that was written by Richard Williams in 1968. It's purpose was to enable artists to use an IBM System 360/40 at the University of New Mexico in order to explore artistic and aesthetic uses of the machine. Williams collaborated with Charles Mattox, Frederick Hammersley, Kathernine Nash, and others. This early period of computer art is described in Patrick Frank's recent book, "Sharing Code: Art1, Frederick Hammersley and the Dawn of Computer Art" (Museum of New Mexico Press, Santa Fe, NM, 2020). Art1 was disseminated to other institutions, mainly through the efforts of Kathernine Nash, including to the University of Minnesota, the Computer Arts Society in the UK, the Univeristy of Puerto Rico, and the University of Iowa.
 
