@@ -1,0 +1,122 @@
+                                    12345                T         T         T         T         T         T
+ YOUR INITIALIZING DATA CARD READS (T1 11) AND ( THE SAME CHANGE BY FREDERICK HAMMERSLEY, ART1 OUTPUT 1/2021).
+
+ YOUR OTHER DATA CARDS ARE -
+
+  S CH  A   R  C   NR  NC **** R1,C1  R2,C2  R3,C3  R4,C4  R5,C5  R6,C6  R7,C7  R8,C8  R9,C9  RT,CT
+
+  3  H  2   1  1   10  21      41 22   1 43  41 64   1 85   0  0   0  0   0  0   0  0   0  0   0  0
+  3  =  2  11  1   10  21      31 22  11 43  31 64  11 85   0  0   0  0   0  0   0  0   0  0   0  0
+  3  -  2  21  1   10 105       0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0
+  3  -  1  41  1   10  21       1 22  41 43   1 64  41 85   0  0   0  0   0  0   0  0   0  0   0  0
+  2     1   1 21   50   1       1 42   1 63   1 84   1105   0  0   0  0   0  0   0  0   0  0   0  0
+  3  H  1   1  7   50   8       1 28   1 49   1 70   1 91   0  0   0  0   0  0   0  0   0  0   0  0
+  3     2   1  7   50   8       1 28   1 49   1 70   1 91   0  0   0  0   0  0   0  0   0  0   0  0
+  3  =  1   1 10   50   2       1 30   1 52   1 73   1 94   0  0   0  0   0  0   0  0   0  0   0  0
+  2  -  2   1  7   50   1       1 14   1 28   1 35   1 49   1 56   1 70   1 77   1 91   1 98   0  0
+  1     0   0  0    0   0       0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0   0  0
+1
+
+
+
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT ------HH==HHHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT 
++               HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               ======-      -=======      -      -       ======-      -=======      -      -       ======-      -=======
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++               -------      ---------------      ---------------      ---------------      ---------------      --------
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                TTTTTTHHH==HHHTTTTTT TTTTTTHH==HHHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT TTTTTTHHH==HHHTTTTTT 
++                     -      -       ======-      -=======      -      -       ======-      -=======      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+                ------HHH==HHH------ TTTTTTHH==HHHHTTTTTT ------HHH==HHH------ TTTTTTHHH==HHHTTTTTT ------HHH==HHH------ 
++                     -      -       HHHHHH-      -HHHHHHH      -      -       HHHHHH-      -HHHHHHH      -      -       
+0                                                             THE SAME CHANGE BY FREDERICK HAMMERSLEY, ART1 OUTPUT 1/2021
