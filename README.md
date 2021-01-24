@@ -8,7 +8,7 @@ Using an available listing of the original Fortran code, the program can be comp
 
 Art1 makes use of overstriking, the ability to print characters on top of each other by issuing a carriage return without a line feed. Since most of us don't have an IBM 1403 line printer handy, the Python script "ibm1403fort.py" will process the text from art1 and generate images. The script uses scans of glyphs from an Olivetti Te-318 teleprinter. (In the future, I hope to use the 1403's character set for a more faithful reproduction.) Four sets of the characters provide some variation that is typical of a mechanical print. The images are 600dpi and would normally be printed on 14-7/8x11" white tractor feed paper. 
 
-#COMMANDS / WORKFLOW
+# COMMANDS / WORKFLOW
 
 Required tools:
 - A Fortran compiler. GNU Fortran works fine.
@@ -17,14 +17,14 @@ Required tools:
 
 Process:
 1. Compile cart1.f (the modified art1.f program)
-2. a.out > output.txt
-3. python3 ibm1408fort.py output.txt
+2. Run the executable: `a.out > output.txt` (`a.out` reads `fort.25`)
+3. Generate images of the output: `python3 ibm1408fort.py output.txt`
 
-#THANKS AND ACKNOWLEDGMENTS
+# THANKS AND ACKNOWLEDGMENTS
 
 Thanks to Patrick Frank for providing a copy of Richard William's mimeographed instructions and the Archive of American Art for their scans of Frederick Hammersley papers, including his original punch cards, Art1 output, and printed computer work.
 
-#REFERENCES
+# REFERENCES
 
 Patrick Frank, 2020. Sharing Code: Art1, Frederick Hammersley, and the Dawn of Computer Art. New Mexico Museum of Art Press, Santa Fe, New Mexico.
 Jasia Reichardt, 1971. The Computer in Art. Von Nostrand Reinhold Publishing, New York.
