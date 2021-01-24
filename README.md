@@ -32,6 +32,6 @@ Thanks to Patrick Frank for providing a copy of Richard William's mimeographed i
 2. Jasia Reichardt, 1971. The Computer in Art. Von Nostrand Reinhold Publishing: New York.
 
 ### OTHER RESOURCES
-- [Frederick Hammersley papers, circa 1860-2009, bulk 1940-2009](https://www.aaa.si.edu/collections/frederick-hammersley-papers-7270/series-12) Series 12: Artwork and Artifacts, 1934-2009, 4.2 Linear feet Box 22, 31-32, 35, 38, 42, 44, 59 OV46-56, 60-65 includes Computer Drawings, Handwritten Calculations and Formulas, circa 1973, Computer Punch Cards, circa 1970, and other archived materials.
+- [Frederick Hammersley papers, circa 1860-2009, bulk 1940-2009](https://www.aaa.si.edu/collections/frederick-hammersley-papers-7270/series-12) Series 12: Artwork and Artifacts, 1934-2009, includes Computer Drawings, Handwritten Calculations and Formulas, circa 1973, Computer Punch Cards, circa 1970, and other archived materials.
 - [Frederick Hammersley Foundation](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings) Computer Drawings
 - [Sharing Code](http://www.mnmpress.org/?p=allBooks&id=270) by Patrick Frank, Museum of New Mexico Press
