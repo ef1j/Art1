@@ -26,5 +26,5 @@ Thanks to Patrick Frank for providing a copy of Richard William's mimeographed i
 
 ## REFERENCES
 
-Patrick Frank, 2020. Sharing Code: Art1, Frederick Hammersley, and the Dawn of Computer Art. New Mexico Museum of Art Press, Santa Fe, New Mexico.
-Jasia Reichardt, 1971. The Computer in Art. Von Nostrand Reinhold Publishing, New York.
+1. Patrick Frank, 2020. Sharing Code: Art1, Frederick Hammersley, and the Dawn of Computer Art. New Mexico Museum of Art Press, Santa Fe, New Mexico.
+2. Jasia Reichardt, 1971. The Computer in Art. Von Nostrand Reinhold Publishing, New York.
