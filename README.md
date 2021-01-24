@@ -35,6 +35,6 @@ Thanks to Patrick Frank for providing a copy of Richard William's mimeographed i
 - [Frederick Hammersley papers, Series 12: Artwork and Artifacts, 1934-2009](https://www.aaa.si.edu/collections/frederick-hammersley-papers-7270/series-12) Includes Computer Drawings, Handwritten Calculations and Formulas, Computer Punch Cards, and other archived materials.
 - [Frederick Hammersley Foundation](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings) Computer Drawings
 - [Sharing Code](http://www.mnmpress.org/?p=allBooks&id=270) by Patrick Frank, Museum of New Mexico Press
-- [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers IBM Fortran IV systems reference library from 1966.
+- [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers scan of the IBM Fortran IV systems reference library volume from 1966.
 
 [![Art1 output](samechg2.jpg)](samechg2.jpg)
