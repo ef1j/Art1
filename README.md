@@ -12,8 +12,8 @@ Art1 makes use of overstriking, the ability to print characters on top of each o
 
 Required tools:
 - A Fortran compiler. GNU Fortran works fine.
-- Python 3.X
-- Python's Pillow image libraries 
+- A line printer, teleprinter, daisy wheel printer, or...
+- Python 3.X and the Pillow image library
 
 Process:
 1. Compile `cart1.f` (the modified `art1.f` program)
