@@ -16,7 +16,7 @@ Required tools:
 - Python 3.X and the Pillow image library
 
 Process:
-1. Compile `cart1.f` (the modified `art1.f` program)
+1. Compile `art2021.f` (the modified `art1.f` program)
 2. Create a `fort.25` input file. See Williams' instructions and examples.
 3. Run the executable: `a.out > output.txt`
 4. Send to your hardcopy printer (after converting the Fortran carriage control characters)
