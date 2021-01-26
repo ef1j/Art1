@@ -19,8 +19,9 @@ Process:
 1. Compile `cart1.f` (the modified `art1.f` program)
 2. Create a `fort.25` input file. See William's instructions and examples.
 3. Run the executable: `a.out > output.txt`
-4. Generate images of the output: `python3 ibm1408fort.py output.txt`
-5. Rock computer art like it's 1969
+4. Send to your hardcopy printer (after converting the Fortran carriage control characters)
+5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`
+6. Rock computer art like it's 1969
 
 ## ACKNOWLEDGMENTS
 
