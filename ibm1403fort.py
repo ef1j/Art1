@@ -93,7 +93,8 @@ if __name__ == '__main__':
                             page.column += 1 # advance carriage, do not strike!
                         elif byte == 10 or (page.column == 0 and byte == 48): # new line (0)
                             page.row += 1
-                            page.column = 0
+                            if byte == 48: page.column = 1 # funny correction for fortran
+                            else: page.column = 0
                             if page.row == page.pagerows - page.voffset:
                                 output.append(page)
                                 numpage += 1 # add a page
