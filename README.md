@@ -21,7 +21,7 @@ Process:
 1. Compile `art11.f` (the modified `art1.f` program)
 2. Create a `fort.25` input file. See Williams' instructions and examples.
 3. Run the executable: `a.out > output.txt`
-4. Send to your hardcopy printer (after converting the Fortran carriage control characters with a command like `asa`)
+4. Send to your hardcopy printer (convert Fortran carriage control characters with a command like `asa`)
 5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`
 6. Rock computer art like it's 1969
 
