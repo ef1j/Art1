@@ -7,5 +7,4 @@ The `lart1` arrays are 73 columns by 55 rows and print in portrait. This preserv
 `test.25` is test input.
 
 
-
-72 column Art1 output for teleprinters such as the ASR-33 are left as an exercise to the reader.
+72 column Art1 output for teleprinters such as the ASR-33 are left as an exercise for the reader.
