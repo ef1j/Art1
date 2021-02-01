@@ -41,6 +41,6 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 - [Frederick Hammersley papers, Series 12: Artwork and Artifacts, 1934-2009](https://www.aaa.si.edu/collections/frederick-hammersley-papers-7270/series-12) The Archive of American Art's scans of Computer Drawings, Handwritten Calculations and Formulas, Computer Punch Cards, and other materials.
 - [Sharing Code](http://www.mnmpress.org/?p=allBooks&id=270) by Patrick Frank, Museum of New Mexico Press
 - [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers scan of the IBM Fortran IV systems reference library volume from 1966.
- - [gfortran](https://github.com/fxcoudert/gfortran-for-macOS) GNU Fortran for macOS, if that is your jam.
+ - [GNU Fortran for macOS](https://github.com/fxcoudert/gfortran-for-macOS), if that is your jam.
 
 [![Art1 output](samechg2.jpg)](samechg2.jpg)
