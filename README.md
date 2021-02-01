@@ -42,5 +42,6 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 - [Sharing Code](http://www.mnmpress.org/?p=allBooks&id=270) by Patrick Frank, Museum of New Mexico Press
 - [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers scan of the IBM Fortran IV systems reference library volume from 1966.
  - [GNU Fortran for macOS](https://github.com/fxcoudert/gfortran-for-macOS), if that is your jam.
+ - [Art1 in Javascript](https://github.com/piratefsh/art1.js) Sher Minn Chong's modern take on Art1.
 
-[![Art1 output](samechg2.jpg)](samechg2.jpg)
+[![Art1 output](rsamechg2.jpg)](samechg2.jpg)
