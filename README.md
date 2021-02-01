@@ -44,4 +44,4 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
  - [GNU Fortran for macOS](https://github.com/fxcoudert/gfortran-for-macOS), if that is your jam.
  - [Art1 in Javascript](https://github.com/piratefsh/art1.js) Sher Minn Chong's modern take on Art1.
 
-[![Art1 output](rsamechg2.jpg)](samechg2.jpg)
+[![Art1 output](samechg2.jpg)](samechg2.jpg)
