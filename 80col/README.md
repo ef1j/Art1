@@ -9,3 +9,5 @@ The `lart1` arrays are 73 columns by 55 rows and print in portrait. These dimens
 Use [Olivettize](https://github.com/ef1j/Olivettize) to create a PDF of simulated output from an Olivetti Te-318 teleprinter.
 
 72 column Art1 output for teleprinters, such as the ASR-33, is left as an exercise for the reader.
+
+[![Art1 80coloutput](ode2art1_01.jpg)](ode2art1_01.jpg)
