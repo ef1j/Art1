@@ -27,7 +27,7 @@ Process:
 
 Known issues:
 
-The legacy `art1.f` does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters in the arrays and misprints when the commands on the initializing card skip colums. A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters.
+The legacy `art1.f` program does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters in the arrays and misprints when the commands in the initializing card skip columns. A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters.
 
 ## ACKNOWLEDGMENTS
 
