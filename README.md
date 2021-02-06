@@ -6,7 +6,7 @@ Williams wrote Art1 in Fortran IV. The program provided six elementary "drawing"
 
 Hammersley in particular systematically explored the Art1 program and machine. His extensive archives [3] document a meticulous study during the period spanning from late 1968 through early 1971. Hammersley's use of overprint and especially simple overlapping shapes produced many sublime pieces. In David Pagel's review of a 2013 restrospective, he writes, "Hammersley's drawings show an inventive mind having a blast as it turns simple grids of letters, numerals and punctuation marks into eccentric compositions that are a pleasure to look at -- as fresh with insight and surprising delight as the moment they were made." [4]
 
-Using an available listing of the original Fortran code, the Art1 program can be compiled by a modern Fortran compiler. Instead of reading a stack of punch cards, the program reads a simple text file redirected from the standard input: `art1 < fort.25`. The structure of the input is described in Williams' instructions, which can be found in the `docs` directory. Sample "card stacks" for generating a few of Hammersley's works are located under `cards`. Each line in the file represents one IBM 80-column punch card. The output of Art1 is sent to the standard output with Fortran carriage control characters, +, 0, and 1, to denote carriage return, line feed, and form feed. The BSD Unix command `asa` can be used to convert this to use more common ASCII control characters.
+Using an available listing of the original Fortran code, the Art1 program can be compiled by a modern Fortran compiler. Instead of reading a stack of punch cards, the program reads a simple text file redirected to the standard input `art1 < fort.25` in a Unix environment, for instance. The structure of the input is described in Williams' instructions, which can be found in the `docs` directory. Sample "card stacks" for generating a few of Hammersley's works are located under `cards`. Each line in the `*.25` file represents one IBM 80-column punch card. The output of Art1 is sent to the standard output with Fortran carriage control characters, +, 0, and 1, to denote carriage return, line feed, and form feed. The BSD Unix command `asa` can be used to convert this to use more common ASCII control characters.
 
 Art1 makes use of overstriking, the ability to print characters on top of each other by issuing a carriage return without a line feed. Text output in a terminal will separate lines that would be overprinted in a printer, or only render the second line. Since most of us don't have an IBM 1403 line printer handy, the Python script "ibm1403fort.py" will process the text from Art1 and generate images. The script uses high resolution scans of glyphs from an Olivetti Te-318 teleprinter. (In the future, I hope to use scans of the the 1403's character set for a more faithful reproduction.) Four separate sets of the characters in the directory provide some variation that is typical of mechanical printing. The final images are 600dpi and would normally be printed on 14-7/8" by 11" white tractor feed paper.
 
@@ -27,7 +27,7 @@ Process:
 
 ## ACKNOWLEDGMENTS
 
-Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed instructions and the Archive of American Art for their scans of Frederick Hammersley papers, including his original punch cards, Art1 output, and printed computer work. Props to Paul Rickards for pointing out the proper use of STDIN.
+Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed instructions and to Paul Rickards for pointing out the proper use of STDIN. I gratefully acknowledge the Archive of American Art for their scans of Frederick Hammersley papers, including those of his original punch cards, Art1 output, and printed works.
 
 ## REFERENCES
 
@@ -40,7 +40,7 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 - [Computer Drawings](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings) Courtesy of the Frederick Hammersley Foundation
 - [Frederick Hammersley papers, Series 12: Artwork and Artifacts, 1934-2009](https://www.aaa.si.edu/collections/frederick-hammersley-papers-7270/series-12) The Archive of American Art's scans of Computer Drawings, Handwritten Calculations and Formulas, Computer Punch Cards, and other materials.
 - [Sharing Code](http://www.mnmpress.org/?p=allBooks&id=270) by Patrick Frank, Museum of New Mexico Press
-- [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers scan of the IBM Fortran IV systems reference library volume from 1966.
+- [IBM System/360 Fortran IV Language](https://archive.org/details/bitsavers_ibm360fortVLanguage1966_8202220) Bitsavers scan of the IBM Fortran IV systems reference library volume from 1966. Also check out the [Bitsavers](http://www.bitsavers.org/pdf/ibm/1403/) IBM-1403 systems library reference and service manuals. 
  - [GNU Fortran for macOS](https://github.com/fxcoudert/gfortran-for-macOS), if that is your jam.
  - [Art1 in Javascript](https://github.com/piratefsh/art1.js) Sher Minn Chong's modern take on Art1.
 
