@@ -25,6 +25,9 @@ Process:
 5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`.
 6. Rock computer art like it's 1969.
 
+Issues:
+The legacy `art1.f` does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters in the arrays and misprints when the commands on the initializing card skip colums. A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters.
+
 ## ACKNOWLEDGMENTS
 
 Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed instructions and to Paul Rickards for pointing out the proper use of STDIN. I gratefully acknowledge the Archive of American Art for their scans of Frederick Hammersley papers, including those of his original punch cards, Art1 output, and printed works.
