@@ -25,7 +25,8 @@ Process:
 5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`.
 6. Rock computer art like it's 1969.
 
-Issues:
+Known issues:
+
 The legacy `art1.f` does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters in the arrays and misprints when the commands on the initializing card skip colums. A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters.
 
 ## ACKNOWLEDGMENTS
