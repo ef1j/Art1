@@ -31,7 +31,7 @@ The legacy `art1.f` program does not initialize the AR1 and AR2 arrays. This can
 
 ## ACKNOWLEDGMENTS
 
-Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed instructions and to Paul Rickards for pointing out the proper use of STDIN. I gratefully acknowledge the Archive of American Art for their scans of Frederick Hammersley papers, including those of his original punch cards, Art1 output, and printed works.
+Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed instructions and to Paul Rickards for pointing out the proper use of STDIN. I gratefully acknowledge Richard Williams' family for their permission to make his code and instructions available and the Archive of American Art for their scans of Frederick Hammersley papers, including those of his original punch cards, Art1 output, and printed works.
 
 ## REFERENCES
 
