@@ -30,8 +30,8 @@ C     *INITIALIZING THE TWO ARRAYS*
 C     *** ADDED CODE TO INITIALLY FILL AR1, AR2 WITH SPACES ***
 C     *                                                       *
       SPACE = ' '
-      DO 2021 I = 1,50
-      DO 2021 J = 1,105
+      DO 2021 I = 1,55
+      DO 2021 J = 1,73
       READ(SPACE, '(A1)') AR1(I,J)
       READ(SPACE, '(A1)') AR2(I,J)
  2021 CONTINUE
