@@ -342,12 +342,12 @@ C     *THIS SUBPROGRAM GENERATES ELLIPSES*
 C     *
 C     *THIS SUBPROGRAM GENERATES 'QUADRANTS'*
  47   CONTINUE
-      DO 675 I = 1, 25
-      DO 675 J = 1, 53
+      DO 675 I = 1, 53
+      DO 675 J = 1, 37
       CH3 = AR1(I,J)
       CH4 = AR2(I,J)
-      JR = 106 - J
-      IB = 51 - I
+      JR = 74 - J
+      IB = 56 - I
       AR1(I,JR) = CH3
       AR1(IB,J) = CH3
       AR1(IB,JR) = CH3
