@@ -33,7 +33,7 @@ C     *INITIALIZING THE TWO ARRAYS*
       DO 15 J = 1,105, NCH1
  15   AR1(I,J) = CH1
       DO 20 I = 1,50
-      DO 20 J = 1,105
+      DO 20 J = 1,105, NCH2
  20   AR2(I,J) = CH2
 C     *
 C     *READING THE DATA CARDS*
