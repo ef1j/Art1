@@ -30,7 +30,7 @@ C     *READING THE DATA CARDS*
       WRITE(6,25)
  25   FORMAT (1X,'YOUR OTHER DATA CARDS ARE -'/)
       WRITE(6,26)
- 26   FORMAT(2X,'S',1X,'CH',2X,'A',3X,'R',2X,'C',3X,'R',2X,'NC',1X,
+ 26   FORMAT(2X,'S',1X,'CH',2X,'A',3X,'R',2X,'C',3X,'NR',2X,'NC',1X,
      2     '****',1X,'R1,C1',2X,'R2,C2',2X,'R3,C3',2X,'R4,C4',2X,
      3     'R5,C5',2X,'R6,C6',2X,'R7,C7',2X,'R8,C8',2X,'R9,C9'
      4     ,2X,'RT,CT'/)
