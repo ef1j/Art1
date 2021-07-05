@@ -361,7 +361,7 @@ C     *THIS SUBPROGRAM GENERATES (EXPONENTIAL)*(TIME)
       DO 724 I = C, 105
       TIME = I
       NY = AKMAG*(TIME-XC)*EXP(-ALPHA*(TIME-XC)) + .5
-      IF(AKSIG) 704, 724, 706
+      IF(AKSIG) 704, 724, 710
  704  NNN = R
       MMM = R + NY - 1
       IF(MMM -50) 708, 708, 706
