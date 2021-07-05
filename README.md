@@ -29,7 +29,7 @@ Some issues:
 
 The legacy `art1.f` program does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters and misprints when the initializing card commands skip columns (on a modern computer, at least.) A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters. It involves some FORTRAN variable type orthodontics.
 
-The "exponential" code contains several bugs in the archival listing: the lines between statement 708 up to 712 are never executed. Changing S.0320 in the original listing from `IF(AKSIG) 704, 724, 706` to `IF(AKSIG) 704, 724, 710` seems to fix the issue. [5] This correction is included in `art21.f`.
+The "exponential" code contains several bugs in the archival listing: the lines between statement 708 up to 712 are never executed. Changing S.0320 in the original listing from `IF(AKSIG) 704, 724, 706` to `IF(AKSIG) 704, 724, 710` seems to fix the issue. [5] This correction is included in `art1.f` and `art21.f` in the main directory.
 
 ## ACKNOWLEDGMENTS
 
