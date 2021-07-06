@@ -1,4 +1,4 @@
-#Archival copies of Art1
+# Archival copies of Art1
 
 The purpopse of this directory is to preserve original listings of the Art1 code.
 
