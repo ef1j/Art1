@@ -40,7 +40,7 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 
 1. Patrick Frank, Sharing Code: Art1, Frederick Hammersley, and the Dawn of Computer Art (Santa Fe, New Mexico: Museum of New Mexico Press, 2020).
 2. Jasia Reichardt, The Computer in Art. (New York: Von Nostrand Reinhold Publishing, 1971).
-3. Frederick Hammersley papers, circa 1860-2009, bulk 1940-2009. Archives of American Art, Smithsonian Institution.
+3. Frederick Hammersley papers, circa 1960-2009, bulk 1940-2009. Archives of American Art, Smithsonian Institution.
 4. David Pagel, Taking on the computer age. Los Angeles Times, February 8, 2013.
 5. Marco Verpelli, personal communication.
 
