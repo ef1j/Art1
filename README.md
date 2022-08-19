@@ -15,14 +15,15 @@ Art1 makes use of overstriking, the ability to print characters on top of each o
 Required tools:
 - A Fortran compiler. GNU Fortran works fine.
 - A line printer, teleprinter, daisy wheel printer, or...
-- Python 3.6 or higher and the Pillow image library
+- Python 3.6 or higher and the Pillow image library, or...
+- Use `enscript` and `ghostscript` to generate postscript and PDF files.
 
 Process:
 1. Compile `art1.f`.
 2. Create a `fort.25` input file. See Williams' instructions and examples.
 3. Run the executable with the input file: `art1 < fort.25`
 4. Send to your hardcopy printer (convert Fortran carriage control characters with a command like `asa`).
-5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`.
+5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`. Alternatively, create postscript output with `enscript`. 
 6. Rock computer art like it's 1969.
 
 Some issues:
