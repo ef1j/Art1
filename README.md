@@ -23,7 +23,7 @@ Process:
 2. Create a `fort.25` input file. See Williams' instructions and examples.
 3. Run the executable with the input file: `art1 < fort.25`
 4. Send to your hardcopy printer (convert Fortran carriage control characters with a command like `asa`).
-5. Or, generate images of the output: `python3 ibm1408fort.py output.txt`. Alternatively, create postscript output with `enscript`. 
+5. Or, generate images of the output: `python3 ibm1408fort.py output.txt` or create postscript output with `enscript`. 
 6. Rock computer art like it's 1969.
 
 Some issues:
