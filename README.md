@@ -23,14 +23,14 @@ Process:
 2. Create a `fort.25` input file. See Williams' instructions and examples.
 3. Run the executable with the input file: `art1 < fort.25`
 4. Send to your hardcopy printer (convert Fortran carriage control characters with a command like `asa`).
-5. Or, generate images of the output: `python3 ibm1408fort.py output.txt` or create postscript output with `enscript`. 
+5. Or, generate images of the output: `python3 ibm1408fort.py output.txt` or create postscript output with `enscript`. [5]
 6. Rock computer art like it's 1969.
 
 Some issues:
 
 The legacy `art1.f` program does not initialize the AR1 and AR2 arrays. This can lead to unprintable characters and misprints when the initializing card commands skip columns (on a modern computer, at least.) A modified version of the Art1 program `art21.f` includes code to initialize each array to space characters. It involves some FORTRAN variable type gymnastics.
 
-The "exponential" code contains several bugs in the archival listing: the lines between statement 708 up to 712 are never executed. Changing `S.0320` in the original listing from `IF(AKSIG) 704, 724, 706` to `IF(AKSIG) 704, 724, 710` seems to fix the issue. [5] This correction is included in `art1.f` and `art21.f` in the main directory.
+The "exponential" code contains several bugs in the archival listing: the lines between statement 708 up to 712 are never executed. Changing `S.0320` in the original listing from `IF(AKSIG) 704, 724, 706` to `IF(AKSIG) 704, 724, 710` seems to fix the issue. [6] This correction is included in `art1.f` and `art21.f` in the main directory.
 
 ## ACKNOWLEDGMENTS
 
@@ -42,7 +42,8 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 2. Jasia Reichardt, The Computer in Art. (New York: Von Nostrand Reinhold Publishing, 1971).
 3. Frederick Hammersley papers, circa 1960-2009, bulk 1940-2009. Archives of American Art, Smithsonian Institution.
 4. David Pagel, Taking on the computer age. Los Angeles Times, February 8, 2013.
-5. Marco Verpelli, personal communication.
+5. This works reasonably well: `art21 < fort.25 | asa | enscript -c -B -M Wide -f Courier12 -o output.ps` with the line `Media: Wide 1044 792 24 0 1044 792` in an `~/.enscriptrc` file.
+6. Marco Verpelli, personal communication.
 
 ## OTHER RESOURCES
 - [Computer Drawings](http://www.hammersleyfoundation.org/index.php/artwork/computer-drawings) Courtesy of the Frederick Hammersley Foundation
