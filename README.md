@@ -42,7 +42,7 @@ Thanks to Patrick Frank for providing a copy of Richard Williams' mimeographed i
 2. Jasia Reichardt, The Computer in Art. (New York: Von Nostrand Reinhold Publishing, 1971).
 3. Frederick Hammersley papers, circa 1960-2009, bulk 1940-2009. Archives of American Art, Smithsonian Institution.
 4. David Pagel, Taking on the computer age. Los Angeles Times, February 8, 2013.
-5. This works reasonably well: `art21 < fort.25 | asa | enscript -c -B -M Wide -f Courier12 -o output.ps` with the line `Media: Wide 1044 792 24 0 1044 792` in an `~/.enscriptrc` file.
+5. This works reasonably well: `art21 < fort.25 | asa | enscript -c -B -M Art1 -f Courier12/11 -o output.ps` with the line `Media: Art1 1044 792 30 40 1014 752` in an `~/.enscriptrc` file.
 6. Marco Verpelli, personal communication.
 
 ## OTHER RESOURCES
